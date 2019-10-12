@@ -1,6 +1,6 @@
 **Haim Fan Page**
 
-This is a fansite dedicated to the California band Haim. It includes a few facts about the band, a YouTube video inside the page, and a link to an additional YouTube video in a new tab.
+This is a fansite dedicated to the California band *Haim*. It includes a few facts about the band, a YouTube video inside the page, and a link to an additional YouTube video in a new tab.
 
 **HTML/CSS**
 
@@ -8,7 +8,7 @@ This fansite is strictly using HTML and CSS to organize and style its contents.
 
 **Use**
 
-The Haim fanpage is used strictly for fans of Haim and those interested in learning more about Haim.
+The Haim fanpage is used strictly for fans of *Haim* and those interested in learning more about Haim.
 
 **Goal**
 
