@@ -12,4 +12,4 @@ The Haim fanpage is used strictly for fans of *Haim* and those interested in lea
 
 **Goal**
 
-The goal of this project is to introduce Haim to the user and provide some facts about the band. It also shows some examples of wondeful music videos created by the band for reference.
+The goal of this project is to introduce *Haim* to the user and provide some facts about the band. It also shows some examples of wondeful music videos created by the band for reference.
